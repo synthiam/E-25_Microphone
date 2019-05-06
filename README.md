@@ -17,3 +17,5 @@ For profit use of these files requires written consent. Contact partners@synthia
 
 Please see LICENSE.md for license details.
 
+Synthiam Website: https://synthiam.com
+
