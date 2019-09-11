@@ -15,7 +15,7 @@ The Microphone connects to an EZ-B ADC port. The idea is that an EZ-Builder app 
 
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
-Please see LICENSE.md for license details.
+Please see [LICENSE.md](https://github.com/synthiam/E-25_Microphone/blob/master/LICENSE.md) for license details.
 
 Synthiam Website: https://synthiam.com
 
