@@ -18,7 +18,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Green Power LED
 - Voltage requirements: 3.2-16V (3.3V typical)
 - Current draw: 1.2mA
-- Dimensions (7-pin mini DIN): 16.2(W) x 39.5(L) x 7.8(H) (mm)
+- Dimensions: 16.2(W) x 39.5(L) x 7.8(H) (mm)
 - Weight: 4g
 
 **Major components:** 
