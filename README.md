@@ -6,9 +6,9 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 ## Description
 
-Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
+Out of our passion to solve the issue of time waste in the robot creation process, ARC was born. The ARC software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
-We didn't stop at the software, we also made time saving hardware solutions. This Microphone reference design is one of them. The Microphone connects to an EZ-B ADC port. The idea is that an EZ-Builder app would take the analog data and convert it into sound in order to be processed inside EZ-Builder. We want to share these files with you so you can create your own version for your community and customers to enjoy!
+We didn't stop at the software, we also made time saving hardware solutions. This Microphone reference design is one of them. The Microphone connects to an EZ-B ADC port. The idea is that ARC would take the analog data and convert it into sound in order to be processed inside ARC. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
 **Features:**
 - 3.3V voltage regulator on-board
